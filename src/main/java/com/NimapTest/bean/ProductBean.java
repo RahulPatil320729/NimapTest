@@ -16,6 +16,7 @@ public class ProductBean {
 	private String name;
 	private String description;
 	private Double price;
+	
 	private CategoryEntity category;
 	
 	public ProductBean() {
